@@ -1,0 +1,13 @@
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\bin\Debug\netcoreapp3.1\StudentsViolationRecords.exe
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\bin\Debug\netcoreapp3.1\StudentsViolationRecords.deps.json
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\bin\Debug\netcoreapp3.1\StudentsViolationRecords.runtimeconfig.json
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\bin\Debug\netcoreapp3.1\StudentsViolationRecords.runtimeconfig.dev.json
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\bin\Debug\netcoreapp3.1\StudentsViolationRecords.dll
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\bin\Debug\netcoreapp3.1\StudentsViolationRecords.pdb
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\obj\Debug\netcoreapp3.1\StudentsViolationRecords.csprojAssemblyReference.cache
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\obj\Debug\netcoreapp3.1\StudentsViolationRecords.AssemblyInfoInputs.cache
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\obj\Debug\netcoreapp3.1\StudentsViolationRecords.AssemblyInfo.cs
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\obj\Debug\netcoreapp3.1\StudentsViolationRecords.csproj.CoreCompileInputs.cache
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\obj\Debug\netcoreapp3.1\StudentsViolationRecords.dll
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\obj\Debug\netcoreapp3.1\StudentsViolationRecords.pdb
+C:\Users\arminess\source\repos\StudentsViolationRecords\StudentsViolationRecords\obj\Debug\netcoreapp3.1\StudentsViolationRecords.genruntimeconfig.cache
