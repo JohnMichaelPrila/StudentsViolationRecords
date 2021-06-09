@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arminess\\source\\repos\\StudentsViolationRecords\\StudentsViolationRecords\\StudentsViolationRecords.csproj",
-      "projectName": "StudentsViolationRecords",
-      "projectPath": "C:\\Users\\arminess\\source\\repos\\StudentsViolationRecords\\StudentsViolationRecords\\StudentsViolationRecords.csproj",
+      "projectUniqueName": "C:\\Users\\arminess\\source\\repos\\StudentsViolationRecords\\BL layer\\BL layer.csproj",
+      "projectName": "BL layer",
+      "projectPath": "C:\\Users\\arminess\\source\\repos\\StudentsViolationRecords\\BL layer\\BL layer.csproj",
       "packagesPath": "C:\\Users\\arminess\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arminess\\source\\repos\\StudentsViolationRecords\\StudentsViolationRecords\\obj\\",
+      "outputPath": "C:\\Users\\arminess\\source\\repos\\StudentsViolationRecords\\BL layer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arminess\\AppData\\Roaming\\NuGet\\NuGet.Config",

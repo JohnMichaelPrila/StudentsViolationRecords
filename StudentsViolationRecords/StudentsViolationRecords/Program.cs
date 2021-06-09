@@ -5,34 +5,26 @@ namespace StudentsViolationRecords
 {
    
    
-    class Program
+    class Program// this class holds the main method.
     {
-        
-        
+     
+
         static void Main(string[] args)
         {
 
-            mainMenuu menuu = new mainMenuu();
-            
+
+
+
+            Access menuu = new Access();
+
             Console.Title = "Student Violation Records";
 
             menuu.login();
 
-            if (menuu.user == "admin" && menuu.pass == "admin")
-            {
-                Console.Clear();
-                menuu.menu();
-            }
-            else
-            {
-                Console.WriteLine("WRONG CREDENTIALS PLEASE TRY AGAIN");
-            }
-
-
-
-
-
+            Console.ReadLine();
         }
+
+      
     }
     
 }

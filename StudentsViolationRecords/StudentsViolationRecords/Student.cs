@@ -4,47 +4,58 @@ using System.Text;
 
 namespace StudentsViolationRecords
 {
-class Student
+ class Student
+        //like the violation class this class processes everything
+        //related in students and ill also separate each method here
     {
+
         
+
+
         public List<String> studList = new List<string> {"CURRENT LIST"};
+
+        string Studname;
+        string Studnum;
+        string YearandSection;
         
+
         
+       
+  
         
         
         public void studentList()//View Students List 
         {
-
             
+                
+            Console.WriteLine("CURRENT LIST");
+            Console.WriteLine();
+            Console.Write(Studname);
+            Console.Write(Studname);
+
+
+
 
         }
 
         public void addStudent()// Add Student in the list
         {
+            Console.WriteLine();
+            Console.WriteLine("Enter Student Name:(Surname, First name, Middle Initial) ");
+            studList.Add(Studname= Console.ReadLine());
+            Console.WriteLine();
+            Console.WriteLine("Student ID: ");
+            studList.Add(Studnum = Console.ReadLine());
+            Console.WriteLine();
+            Console.WriteLine("Year and Section ");
+            studList.Add(YearandSection = Console.ReadLine());
 
-            Console.WriteLine("Enter Student Name: ");
-            studList.Add(Console.ReadLine());
-            
 
+
+
+            Console.Clear();
             Console.WriteLine("Student Added Succefully!");
-            studList.ForEach(Console.WriteLine);
-
-            Console.WriteLine("Would you like to Add again? =1, EXIT= 2");
-            int studchoice = Convert.ToInt32(Console.ReadLine());
-
-            if (studchoice == 1)
-            {
-                Console.Clear();
-                addStudent();
-            }
-            else if (studchoice == 2)
-            {
-                  
-            }
-
-
-
-            
+            //studList.ForEach(Console.WriteLine);
 
 
         }
